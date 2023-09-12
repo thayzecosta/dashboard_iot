@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../thayzecosta/basic_form"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "basic_form"
+	}
+}
